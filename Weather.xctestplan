@@ -9,6 +9,10 @@
     }
   ],
   "defaultOptions" : {
+    "locationScenario" : {
+      "identifier" : "Moscow, Russia",
+      "referenceType" : "built-in"
+    },
     "targetForVariableExpansion" : {
       "containerPath" : "container:Weather.xcodeproj",
       "identifier" : "52657CE72D89AEF70043A9B9",
